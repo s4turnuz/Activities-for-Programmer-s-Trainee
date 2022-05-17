@@ -1,0 +1,15 @@
+C:\Users\douglas.sammur\dev\Activities.Desafiados.Programmers\operadores\Atv6\bin\Debug\net6.0\Atv6.exe
+C:\Users\douglas.sammur\dev\Activities.Desafiados.Programmers\operadores\Atv6\bin\Debug\net6.0\Atv6.deps.json
+C:\Users\douglas.sammur\dev\Activities.Desafiados.Programmers\operadores\Atv6\bin\Debug\net6.0\Atv6.runtimeconfig.json
+C:\Users\douglas.sammur\dev\Activities.Desafiados.Programmers\operadores\Atv6\bin\Debug\net6.0\Atv6.dll
+C:\Users\douglas.sammur\dev\Activities.Desafiados.Programmers\operadores\Atv6\bin\Debug\net6.0\Atv6.pdb
+C:\Users\douglas.sammur\dev\Activities.Desafiados.Programmers\operadores\Atv6\obj\Debug\net6.0\Atv6.csproj.AssemblyReference.cache
+C:\Users\douglas.sammur\dev\Activities.Desafiados.Programmers\operadores\Atv6\obj\Debug\net6.0\Atv6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\douglas.sammur\dev\Activities.Desafiados.Programmers\operadores\Atv6\obj\Debug\net6.0\Atv6.AssemblyInfoInputs.cache
+C:\Users\douglas.sammur\dev\Activities.Desafiados.Programmers\operadores\Atv6\obj\Debug\net6.0\Atv6.AssemblyInfo.cs
+C:\Users\douglas.sammur\dev\Activities.Desafiados.Programmers\operadores\Atv6\obj\Debug\net6.0\Atv6.csproj.CoreCompileInputs.cache
+C:\Users\douglas.sammur\dev\Activities.Desafiados.Programmers\operadores\Atv6\obj\Debug\net6.0\Atv6.dll
+C:\Users\douglas.sammur\dev\Activities.Desafiados.Programmers\operadores\Atv6\obj\Debug\net6.0\refint\Atv6.dll
+C:\Users\douglas.sammur\dev\Activities.Desafiados.Programmers\operadores\Atv6\obj\Debug\net6.0\Atv6.pdb
+C:\Users\douglas.sammur\dev\Activities.Desafiados.Programmers\operadores\Atv6\obj\Debug\net6.0\Atv6.genruntimeconfig.cache
+C:\Users\douglas.sammur\dev\Activities.Desafiados.Programmers\operadores\Atv6\obj\Debug\net6.0\ref\Atv6.dll
