@@ -1,0 +1,15 @@
+C:\Users\douglas.sammur\dev\Activities.Desafiados.Programmers\operadores\Atv10\obj\Debug\net6.0\Atv10.csproj.AssemblyReference.cache
+C:\Users\douglas.sammur\dev\Activities.Desafiados.Programmers\operadores\Atv10\obj\Debug\net6.0\Atv10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\douglas.sammur\dev\Activities.Desafiados.Programmers\operadores\Atv10\obj\Debug\net6.0\Atv10.AssemblyInfoInputs.cache
+C:\Users\douglas.sammur\dev\Activities.Desafiados.Programmers\operadores\Atv10\obj\Debug\net6.0\Atv10.AssemblyInfo.cs
+C:\Users\douglas.sammur\dev\Activities.Desafiados.Programmers\operadores\Atv10\obj\Debug\net6.0\Atv10.csproj.CoreCompileInputs.cache
+C:\Users\douglas.sammur\dev\Activities.Desafiados.Programmers\operadores\Atv10\bin\Debug\net6.0\Atv10.exe
+C:\Users\douglas.sammur\dev\Activities.Desafiados.Programmers\operadores\Atv10\bin\Debug\net6.0\Atv10.deps.json
+C:\Users\douglas.sammur\dev\Activities.Desafiados.Programmers\operadores\Atv10\bin\Debug\net6.0\Atv10.runtimeconfig.json
+C:\Users\douglas.sammur\dev\Activities.Desafiados.Programmers\operadores\Atv10\bin\Debug\net6.0\Atv10.dll
+C:\Users\douglas.sammur\dev\Activities.Desafiados.Programmers\operadores\Atv10\bin\Debug\net6.0\Atv10.pdb
+C:\Users\douglas.sammur\dev\Activities.Desafiados.Programmers\operadores\Atv10\obj\Debug\net6.0\Atv10.dll
+C:\Users\douglas.sammur\dev\Activities.Desafiados.Programmers\operadores\Atv10\obj\Debug\net6.0\refint\Atv10.dll
+C:\Users\douglas.sammur\dev\Activities.Desafiados.Programmers\operadores\Atv10\obj\Debug\net6.0\Atv10.pdb
+C:\Users\douglas.sammur\dev\Activities.Desafiados.Programmers\operadores\Atv10\obj\Debug\net6.0\Atv10.genruntimeconfig.cache
+C:\Users\douglas.sammur\dev\Activities.Desafiados.Programmers\operadores\Atv10\obj\Debug\net6.0\ref\Atv10.dll
